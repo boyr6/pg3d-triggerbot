@@ -36,9 +36,9 @@ Discord: undertakerc
 
 🚀 Quick Start
 Installation
-
+```
 pip install pyautogui opencv-python numpy pillow pywin32 keyboard
-
+```
 Run the script
 
 Choose between Advanced (with UI) or Simple mode
